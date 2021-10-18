@@ -1,0 +1,15 @@
+#bg-color{
+  background-color: rgb(169, 154, 238);
+  background-image: url("https://images8.alphacoders.com/110/thumb-1920-1102284.jpg");
+}
+.img1{
+  width:500px;
+  height:350px;
+}
+.text1{
+  color: rgb(28, 118, 160);
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.tiny{
+  font-size: 7px;
+}
